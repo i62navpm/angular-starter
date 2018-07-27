@@ -96,7 +96,7 @@ angular-starter/
  ├──config/                        * our configuration
  |   ├──build-utils.js             * common config and shared functions for prod and dev
  |   ├──config.common.json         * config for both environments prod and dev such title and description of index.html
- |   ├──config.dev.json            * config for devevlopment environment
+ |   ├──config.dev.json            * config for development environment
  |   ├──config.prod.json           * config for production environment 
  │   │                              (note: you can load your own config file, just set the evn ANGULAR_CONF_FILE with the path of your own file)
  |   ├──helpers.js                 * helper functions for our configuration files
